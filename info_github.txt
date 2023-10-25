@@ -1,0 +1,52 @@
+1 git init
+
+Initialized empty Git repository in C:/Users/User/OneDrive/Рабочий стол/homew
+On branch master
+
+No commits yet
+
+Untracked files:
+PS C:\Users\User\OneDrive\Рабочий стол\homeworks>
+2 git add .
+
+qo'shildi"
+[master (root-commit) e8c1267] python file qo'shildi
+ 1 file changed, 1 insertion(+)
+ create mode 100644 salom.py
+
+3 git commit -m "---"
+PS C:\Users\User\OneDrive\Рабочий стол\homeworks>
+4 git log
+commit e8c1267bc36ccb41e753d40b3556e27137b59768 (HEAD -> master)
+Author: Temurbek <temurergashev30@gmail.com>
+Date:   Wed Oct 25 14:00:25 2023 +0300
+
+://github.com/Temurbeek/Homework.gitол\homeworks>
+://github.com/Temurbeek/Homework.git
+
+
+5 GITHUBDAGI 3 TA LINK 
+
+>> git branch -M main
+>> git push -u origin main
+error: remote origin already exists.
+info: please complete authentication in your browser...
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 244 bytes | 244.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Temurbeek/Homework.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\User\OneDrive\Рабочий стол\homeworks>
+
+6 git branch
+* main
+PS C:\Users\User\OneDrive\Рабочий стол\homeworks> 
+
+7 git push origin -u  main   
+
+YUKLANSA 
+Everything up-to-date
+branch 'main' set up to track 'origin/main'.
+PS C:\Users\User\OneDrive\Рабочий стол\homeworks> 
