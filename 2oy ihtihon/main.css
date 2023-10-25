@@ -1,0 +1,279 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1200px;
+    margin: 0 auto;
+}
+
+
+
+ul li  a{
+    text-decoration: none;
+}
+ul li{
+    list-style: none;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+
+}
+.main-title{
+    display: flex;
+    gap: 40px;
+}
+.main-btn{
+    text-decoration: none;
+    color: #FAFAFA;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    background: #D23166;
+    padding: 14px 50px;
+}
+
+.main-info a{
+    color: #150101;
+font-family: Roboto;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.main-infoo a {
+    color: #D23166;
+
+font-family: Roboto;
+font-size: 15px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+
+#showcase{
+    background: #F2CEDA;
+ 
+}
+.showcase-title{
+    margin-top: 100px;
+}
+.showcase-title p{
+    color: #0F0101;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 1.4px;
+}
+.showcase-title h1{
+    color: #0F0101;
+font-family: Roboto;
+font-size: 40px;
+font-style: normal;
+font-weight: 400;
+
+
+flex-shrink: 0;/* 69.083px */
+}
+.showcase-title h4{
+    color: #0F0101;
+font-family: Hind Madurai;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+
+opacity: 0.6;
+
+flex-shrink: 0;
+margin-block: 50px;
+}
+
+
+.info{
+    color: #D23166;
+}
+.showcase-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.showcase-img img{
+ width: 100%;
+ margin-block: 60px;
+ 
+}
+#free{
+    padding-top: 50px;
+}
+
+.free-title{
+    display: flex;
+     flex-direction: column;
+    align-items: center;
+    width: 250px;
+height: 200px;
+border-radius: 7px;
+background: #FFF;
+
+
+box-shadow: 20px 20px 50px 0px rgba(0, 0, 0, 0.03);
+}
+.free-title h3{
+    color: #000;
+font-family: Hind Madurai;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+margin-block: 20px;
+}
+.free-title p{
+    color: #000;
+text-align: center;
+font-family: Hind Madurai;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+} 
+.free-title img{
+    padding-top: 20px;
+}
+
+#Brown{
+     background: #F2CEDA;
+     height: 544.495px;
+     margin-block: 50px;
+}
+.brown-title h1{
+color: #150101;
+font-family: Hind Madurai;
+font-size: 44.2px;
+font-style: normal;
+font-weight: 600;
+margin-top: -240px;
+}
+.brown-title h4{
+color: #150101;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 150% */
+margin-block: 30px;
+
+}
+.brown-img img{
+width: 100%;
+margin-top: -120px;
+}
+.main-btnn{
+    text-decoration: none;
+    color: #FAFAFA;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    background: #D23166;
+    padding: 14px 50px;
+    
+    
+}
+.brown-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.product-our{
+    color: #150101;
+    font-family: Hind Madurai;
+    font-size: 44.2px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-align: center;
+    margin-top: 137px;
+}
+
+.our-pro{
+    display: flex;
+    gap: 50px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    margin: 50px;
+}
+.our{
+    display: flex;
+    gap: 50px;
+    color: #000;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
+.our-max{
+    display: flex;
+    gap: 50px;
+    color: #000;
+font-family: Roboto;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+opacity: 0.6;
+}
+.bread1{
+    color: #000;
+font-family: Hind Madurai;
+font-size: 26px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.bread2{
+    width: 454px;
+height: 67px;
+flex-shrink: 0;
+color: #000;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px;
+}
+.buy-change{
+    text-decoration: none;
+    color: #FAFAFA;
+    font-family: Hind Madurai;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    width: 165px;
+    height: 49px;
+    border-radius: 5px;
+    background: #D23166;
+    padding: 14px 50px;
+}
